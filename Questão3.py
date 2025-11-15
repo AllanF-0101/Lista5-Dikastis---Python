@@ -1,7 +1,6 @@
 #Mi = (Ci - Ki) mod 26
 #Mi dividido por 26 deixa resto Ci - Ki
 
-# texto = ""+recursao()
 lista = []
 def recursao(chaveInicial, fraseCriptografada, idx=0, mensagem=""):
     alfabeto = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T' ,'U', 'V' ,'W', 'X', 'Y' ,'Z']
